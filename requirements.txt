@@ -1,0 +1,6 @@
+requests
+scikit-learn
+matplotlib
+nltk
+gensim
+bs4
