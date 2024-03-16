@@ -1,4 +1,4 @@
-# DH140-Final-Project
+# Analyzing the works of Jane Austen
 
 This project content is created by Ziyi Meng. 
 
